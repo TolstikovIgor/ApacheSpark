@@ -2,7 +2,7 @@
 ![](logo.png)
 #### Факультет Data Engineering
 ____
-#### Урок 1. Архитектура Spark. Принципы исполнения запросов. Сохранение и чтение данных
+#### [Урок 1. Архитектура Spark. Принципы исполнения запросов. Сохранение и чтение данных](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson1)
 * Что такое Big Data, MapReduce, Hadoop
 * Что такое Spark
 * Архитектура Spark
@@ -15,19 +15,19 @@ ____
 * Принципы исполнения запросов
 * Сохранение и чтение данных
 
-#### Урок 2. Операции с данными: агрегаты, джойны. Оптимизация SQL-запросов
+#### [Урок 2. Операции с данными: агрегаты, джойны. Оптимизация SQL-запросов](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson2)
 * DataFrame, schema
    * RDD, DataFrame, Создаём статический DataFrame, Spark DataFrame
 * Операции с данными
 * Оптимизация запросов
 
-#### Урок 3. Типы данных в Spark. Коллекции как объекты DataFrame. User-Defined Functions
+#### [Урок 3. Типы данных в Spark. Коллекции как объекты DataFrame. User-Defined Functions](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson3)
 * Дополнение по API
 * Составные типы данных: Array, Map
 * User-Defined Functions. Использование UDF в spark.sql
 * ML-pipelines
 
-#### Урок 4. Машинное обучение на pySpark на примере линейной регрессии
+#### [Урок 4. Машинное обучение на pySpark на примере линейной регрессии](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson4)
 * Spark ML vs MlLib
 * 4 причины строить ML-pipeline, а не просто модели Machine Learning
 * The machine learning workflow in Spark
