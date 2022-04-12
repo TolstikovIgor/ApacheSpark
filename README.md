@@ -27,7 +27,7 @@ ____
 * User-Defined Functions. Использование UDF в spark.sql
 * ML-pipelines
 
-#### [Урок 4. Машинное обучение на pySpark на примере линейной регрессии](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson4)
+#### Урок 4. Машинное обучение на pySpark на примере линейной регрессии
 * Spark ML vs MlLib
 * 4 причины строить ML-pipeline, а не просто модели Machine Learning
 * The machine learning workflow in Spark
