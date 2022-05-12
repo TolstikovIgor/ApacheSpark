@@ -2,6 +2,9 @@
 ![](logo.png)
 #### Факультет Data Engineering
 ____
+#### [Курсовой проект](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson4)
+Написать модель PipelineSparkML
+___
 #### [Урок 1. Архитектура Spark. Принципы исполнения запросов. Сохранение и чтение данных](https://github.com/TolstikovIgor/ApacheSpark/tree/main/lesson1)
 * Что такое Big Data, MapReduce, Hadoop
 * Что такое Spark
